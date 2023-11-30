@@ -41,3 +41,13 @@ print(raju)
 # kiran!=34
 # print(kiran!)
 
+#Camel Cases
+
+#Camel Case
+KiranSagar=15
+
+#Snake Case
+kiran_sagar=77
+
+#Pascal Case
+KiranSagar=123
