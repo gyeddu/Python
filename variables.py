@@ -24,3 +24,20 @@ print(SAi)
 
 raju=100
 print(raju)
+
+
+# # good code
+# kiran=200
+# _kiran=233
+# kiran123=321
+# kiran="kiran"
+
+
+
+
+# #bad
+# 13kiran-99
+# @kiran=399
+# kiran!=34
+# print(kiran!)
+
