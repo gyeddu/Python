@@ -43,11 +43,24 @@ print(raju)
 
 #Camel Cases
 
-#Camel Case
-KiranSagar=15
+# #Camel Case
+# KiranSagar=15
 
-#Snake Case
-kiran_sagar=77
+# #Snake Case
+# kiran_sagar=77
 
-#Pascal Case
-KiranSagar=123
+# #Pascal Case
+# KiranSagar=123
+
+
+a=12 # int
+b=-122  # int
+c=2.2 # float
+d=-4.5 # float
+e=True # boolean
+f=False # boolean
+g=1+2j # complex
+
+print(type(a), type(b),type(c),type(d),type(e),type(f),type(g))
+# Output
+# <class 'int'> <class 'int'> <class 'float'> <class 'float'> <class 'bool'> <class 'bool'> <class 'complex'>
